@@ -32,15 +32,3 @@ for line in file:
 
 file.close()
 
-
-'''
-X = file.readlines()
-Y = len(X)
-For i in range(y):  or for i in range(len(x)):
-     A= x[i][0]
-    B= len(A)
-    If i == B-1:
-          Print(A + str(B))
-    Else:
-          Print(A + str(B-1))
-'''
