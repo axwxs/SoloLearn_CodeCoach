@@ -1,4 +1,5 @@
 '''
+
 Given a text as input, find and output the longest word.
 
 Sample Input
