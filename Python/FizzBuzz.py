@@ -10,7 +10,6 @@ For numbers which are multiples of both 3 and 5, output "SoloLearn".
 
 You need to change the code to skip the even numbers, so that the logic only applies to odd numbers in the range.
 
-
 '''
 
 n = int(input())
